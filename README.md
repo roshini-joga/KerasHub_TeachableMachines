@@ -21,7 +21,8 @@ Contains implementations of various image-based deep learning models using Tenso
 - **Expert**: StyleGAN for Image Generation
   - Generates synthetic images using a StyleGAN model.
   
-**Colab Link**: [Image-Based Colab Notebook](#)
+**Colab Link**: [Image-Based Colab Notebook](https://colab.research.google.com/drive/1zdvvUvP5R60kYc1ntK41oiIR3W5XXAUE#scrollTo=KFK_-KzDsqAm)
+
 **Video Link**:
 
 
@@ -42,5 +43,6 @@ Contains implementations of various text-based deep learning models using Tensor
 - **Expert**: Text Generation with GPT-2
   - Generates human-like text using GPT-2.
   
- **Colab Link**: [Text-Based Colab Notebook](#)
+ **Colab Link**: [Text-Based Colab Notebook](https://colab.research.google.com/drive/1RKe61XJiK83456hv-oiuhn03khwW5C2B#scrollTo=-5426BYzrUi0)
+ 
  **Video Link**:
