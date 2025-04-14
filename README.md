@@ -4,9 +4,8 @@ This repository contains two Google Colab notebooks implementing small variation
 
 ## 📌 Notebooks Included
 ### Teachable Machines - Audio , Pose, Image Classification.
-Attached in the files
-
-## Teachable audio machine
+Video Link : 
+# Teachable audio machine 
 https://teachablemachine.withgoogle.com/models/05z6SuaGj/
 
 ### 1️. Image-Based Colab Notebook 
