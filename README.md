@@ -3,8 +3,10 @@
 This repository contains two Google Colab notebooks implementing small variations of Keras Hub examples across different levels: Easy, Intermediate, Advanced, and Expert.
 
 ## 📌 Notebooks Included
+### Teachable Machines - Audio , Pose, Image Classification.
+Attached in the files
 
-### 1️⃣ Image-Based Colab Notebook 🖼️
+### 1️. Image-Based Colab Notebook 
 Contains implementations of various image-based deep learning models using TensorFlow Hub:
 
 - **Easy**: Image Classification with MobileNetV2
@@ -28,7 +30,7 @@ Contains implementations of various image-based deep learning models using Tenso
 
 ---
 
-### 2️⃣ Text-Based Colab Notebook 📝
+### 2️. Text-Based Colab Notebook
 Contains implementations of various text-based deep learning models using TensorFlow Hub:
 
 - **Easy**: Sentiment Analysis with BERT
