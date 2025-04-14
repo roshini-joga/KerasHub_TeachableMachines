@@ -6,6 +6,9 @@ This repository contains two Google Colab notebooks implementing small variation
 ### Teachable Machines - Audio , Pose, Image Classification.
 Attached in the files
 
+## Teachable audio machine
+https://teachablemachine.withgoogle.com/models/05z6SuaGj/
+
 ### 1️. Image-Based Colab Notebook 
 Contains implementations of various image-based deep learning models using TensorFlow Hub:
 
