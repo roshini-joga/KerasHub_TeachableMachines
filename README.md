@@ -12,6 +12,6 @@ Video Link : [Audio demo](https://youtu.be/kOjNygXa0oc) , [Pose demo](https://yo
 
 ### 1️. Image-Based Colab Notebook , Text-Based Colab Notebook
 
- **Colab Link**: [Text-Based Colab Notebook](https://colab.research.google.com/drive/1RKe61XJiK83456hv-oiuhn03khwW5C2B#scrollTo=-5426BYzrUi0)
+ **Colab Link**: [Text-Based Colab Notebook](https://colab.research.google.com/drive/1D3DKZDGtKM5sSoglDfMW7DoCgQm6XsoU#scrollTo=JPKe0sVKbhDD)
  
- **Video Link**: [Video demo]()
+ **Video Link**: [Video demo](https://youtu.be/ARx22ZU5lq4)
