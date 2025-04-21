@@ -3,9 +3,8 @@
 This repository contains two Google Colab notebooks implementing small variations of Keras Hub examples across different levels: Easy, Intermediate, Advanced, and Expert.
 
 ## 📌 Notebooks Included
-### Teachable Machines - Audio , Pose, Image Classification.
+### Teachable Machines - Audio , Pose, Image Classification. 
 Video Link : 
-# Teachable audio machine 
 https://teachablemachine.withgoogle.com/models/05z6SuaGj/
 
 ### 1️. Image-Based Colab Notebook , Text-Based Colab Notebook
